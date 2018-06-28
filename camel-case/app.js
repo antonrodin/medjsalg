@@ -27,7 +27,6 @@ function spinalCase(str) {
         i++;
     }
 
-    console.log(result);
     return result;
 }
 
