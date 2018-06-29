@@ -1,7 +1,7 @@
 Pig Latin Algorithm
 ===================
 
-Had some problems with this one, the problem was about "Should handle words without vowels", the thing is that Y is not a vowel... Also the FreeCodeCamp is not perfect, still pass all test and the last one, did not throw any "error" or "hint" besides of the f*ing "Should handle...".
+Had some problems with this one, the problem was about "Should handle words without vowels", the thing is that "Y" is not a vowel... Also the FreeCodeCamp is not perfect, still pass all test and the last one, did not throw any "error" or "hint" besides of the f*ing "Should handle...".
 
 ```javascript
 // Correct
